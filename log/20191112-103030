@@ -1,0 +1,2 @@
+2019-11-12 10:30:35,807 INFO [root] [app.py(<module>:49)] - hello
+2019-11-12 10:30:35,807 WARNING [root] [app.py(<module>:50)] - 危险

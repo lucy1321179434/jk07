@@ -1,0 +1,4 @@
+2019-11-12 10:58:37,672 INFO [root] [Emp_case.py(test_add:29)] - 新增员工信息
+2019-11-12 10:58:37,701 WARNING [root] [Emp_case.py(test_update:45)] - 修改员工信息
+2019-11-12 10:58:37,733 INFO [root] [Emp_case.py(test_get:51)] - 获取员工信息
+2019-11-12 10:58:37,757 WARNING [root] [Emp_case.py(test_delete:57)] - 删除员工信息
